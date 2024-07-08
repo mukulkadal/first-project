@@ -64,7 +64,7 @@ function App() {
 
       <div className='w-[1125px] m-auto mt-[152px] flex justify-center items-center gap-2'>
         <div className='w-[50%]'>
-          <h1 className='text-8xl font-[800] leading-[102px]'>YOUR FEET DESERVE THE BEST</h1>
+          <h1 className='text-8xl font-[800] leading-[102px]'>YOUR FEET DESERVE THE BEST OF THE BEST</h1>
           <p className='text-[#5A5959] text-[16px] font-[600] w-[410px] mt-10'>YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.YOUR FEET DESERVE THE BEST AND WE’RE HERE TO HELP YOU WITH OUR SHOES.</p>
           <div className='flex justify-start items-center gap-6 mt-10'>
             <button className='bg-[#D01C28] text-[20px] py-2 px-6 font-[600] text-white'>Shop Now</button>
